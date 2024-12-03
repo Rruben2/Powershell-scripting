@@ -1,10 +1,10 @@
 ﻿# Nombre de la nueva máquina virtual
 $vm = "Maquina prueba win"
 
-# Crear la nueva máquina virtual con el nombre y tipo de sistema operativo
+# Crear la nueva máquina virtual con el nombre y tipo de sistema operativo windows 10
 vboxmanage createvm --name $vm --ostype "Windows10_64" --register
 
-# Crear un adaptador de red NAT para la VM (red predeterminada)
+# Creo un adaptador de red NAT para la VM
 vboxmanage modifyvm $vm --nic1 nat
 
 # Crear las 7 tarjetas de red adicionales
