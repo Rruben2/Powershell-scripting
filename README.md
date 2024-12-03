@@ -32,5 +32,8 @@ Le pido al usuario el tipo de puerto que quiere saber que estan activos y los mu
 Projecte final 1:
 Creo una maquina windows 10 con 8 tarjetas de red la primera en nat y el resto en red interna de la 1 a la 7
 
+Projecte final 2:
+Hago lo mismo que en powershell pero sirve para Ubuntu en este caso
+
 Projecte final 3:
 Le muestro al usuario un menu con 3 opciones a elegir encender,apagar o guardar una MV al elegir una opcion le pido el nombre de la maquina y procedemos a hacer la accion que el usuario ha elegido
