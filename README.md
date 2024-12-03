@@ -30,5 +30,7 @@ Act8ej3:
 Le pido al usuario el tipo de puerto que quiere saber que estan activos y los muestra en formato de tabla
 
 Projecte final 1:
+Creo una maquina windows 10 con 8 tarjetas de red la primera en nat y el resto en red interna de la 1 a la 7
 
 Projecte final 3:
+Le muestro al usuario un menu con 3 opciones a elegir encender,apagar o guardar una MV al elegir una opcion le pido el nombre de la maquina y procedemos a hacer la accion que el usuario ha elegido
