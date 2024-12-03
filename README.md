@@ -28,3 +28,7 @@ Asigno el puerto 443 y el servidor de google para ver si se puede hacer una cone
 
 Act8ej3:
 Le pido al usuario el tipo de puerto que quiere saber que estan activos y los muestra en formato de tabla
+
+Projecte final 1:
+
+Projecte final 3:
